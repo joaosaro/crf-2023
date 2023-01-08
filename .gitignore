@@ -15,6 +15,9 @@
 # production
 /build
 
+# dev
+/.vscode
+
 # misc
 .dccache
 .DS_Store
